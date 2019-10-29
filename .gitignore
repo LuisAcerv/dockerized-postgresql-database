@@ -1,0 +1,5 @@
+# Postgres volume #
+postgres-data/
+
+# dotfiles #
+.env
